@@ -1,4 +1,5 @@
 *.log
 *.ngz
 HCPFinalTestFinal_K_8_all/
-
+*.o
+*.e
